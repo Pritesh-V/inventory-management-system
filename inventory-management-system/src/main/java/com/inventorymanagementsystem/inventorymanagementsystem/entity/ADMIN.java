@@ -1,4 +1,4 @@
-package com.inventorymanagementsystem.inventorymanagementsystem.admin;
+package com.inventorymanagementsystem.inventorymanagementsystem.entity;
 
 import java.time.LocalDate;
 
